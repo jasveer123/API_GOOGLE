@@ -1,6 +1,6 @@
 # API_GOOGLE
 
-# get your client id, client secrete and refresh token from the oauth2.0 screen in the google platfom 
+# get your client id, client secrete and refresh token from the oauth2.0 screen in the google platform 
 # now use the uppar repo and clon it (all imp steps written in the js file)
 # use postman to send the post req as show in img
 
@@ -8,7 +8,7 @@
 
 
 
-# the result shows as
+# the message will send as you send the req
 
 
 
